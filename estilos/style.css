@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+/*
+   Paleta de cores
+   Fundo: #F0FDF4
+
+   Card do login: #FFFFFF
+
+   Primária (botão): #22C55E
+
+   Hover: #16A34A
+
+   Texto principal: #064E3B
+
+   Texto secundário: #6B7280
+
+   Borda / inputs: #BBF7D0
+*/
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
