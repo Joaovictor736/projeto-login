@@ -38,13 +38,15 @@ section#login {
     border-radius: 20px;
     box-shadow: 0px 0px 10px black;
     overflow: hidden;
+
+    transition: width 0.3s, height 0.3s;
+    transition-timing-function: ease;
 }
 
-section#login > div#img{
+section#login > div#imagem{
    display: block;
    background: #5f2c82 url(../imagens/pexels-emanuele-ronzani-2155625755-33947745.jpg) no-repeat;
    background-size: cover;
-   background-position: top;
    height: 250px;
 }
 
